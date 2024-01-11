@@ -1,0 +1,36 @@
+---
+title: "Kevin G. Daly: Ruminant Palaeogenomics"
+---
+
+![](skull_wide.png)
+<br/><br/> 
+
+## **Hello!**
+::: columns
+::: column
+<br/><br/> 
+My group's research interests are the consequences of ruminant domestication and human activity.
+<br/><br/> 
+We study this using palaeogenomics - genome data recovered from thousands of years old bones, teeth, and other materials. 
+<br/><br/> 
+With these ancient genomes, we can peak back into prehistory to see how animals have evolved, what were past patterns of biodiversity and how they have changed, and the forces shaping modern animal diversity.
+:::
+
+::: column
+![](avatar_small.png){fig-align="center"}
+:::
+:::
+
+## **Who we are**
+
+::: columns
+::: column
+From February 2024 I will be starting setting up a research group in University College Dublin's School of Agriculture and Food Science. 
+<br/><br/> 
+Together with Louis L'Hôte (PhD student) we are exploring the deep history of ancient animal genetic diversity, health, pathogens and how both were shaped by domestication and human activity as part of the SFI Pathways project "Herd Health". In particular we focus on sheep and goats - small ruminants domesticated in Southwest Asia roughly 10,000 years ago.
+:::
+
+::: column
+![The group at TCD, 2023 - new image to come](group_smurfit_small.png)
+:::
+:::
