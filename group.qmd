@@ -8,12 +8,22 @@ editor:
 ![](in_the_lab.jpg)
 
 ## Group Leader: Kevin Daly
+::: columns
+::: column
 
 Hello!
+
 I am the leader of the self-styled "Ruminant Palaeogenomics" group at UCD's School of Agriculture and Food Science.
+:::
+
+::: column
+![A standard WFH day](kevin_and_moose.jpg width="200" height="100")
+:::
+:::
+
 
 I completed my undergraduate at Trinity College Dublin, where I began my academic career under the mentorship of Prof. Daniel Bradley.
-As part of Dan's ERC project "CODEX" I generated the first large scale genomic dataset of an ancient livestock, thus beginning my minor obsession and healthy research interest in goats.
+As part of Dan's ERC project "CODEX" I generated the [first large scale genomic dataset of an ancient livestock](https://www.science.org/doi/10.1126/science.aas9411), thus beginning my minor obsession and healthy research interest in goats.
 
 Following my PhD I had the fortunate to collaborate with Dr. Melinda Zeder on material from Ganj Dareh, one of the earliest settlements with robust evidence for goat management.
 Expanding the dataset of goat remains with Dr. Marjan Mashkour, Dr. Pernille Bangsgaard, and Dr. Lisa Yeoman, we created a multi-disciplinary collaboration on the world's old managed goat herds, producing [a study I am very proud of](https://www.pnas.org/doi/10.1073/pnas.2100901118).
@@ -31,7 +41,8 @@ I look forward to doing so again and hope to support the movement in any way I c
 In my free time I watch films and maintain a list of [the best goat roles in cinema](https://boxd.it/4BHse).
 You won't believe what's at number one!
 
-![](C.jpg) | ![](Z.jpeg)
+<img src="C.jpg" width="325"/> <img src="Z.jpeg" width=325"/> 
+
 
 ## PhD Students
 
