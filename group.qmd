@@ -13,14 +13,16 @@ editor:
 
 Hello!
 
+
 I am the leader of the self-styled "Ruminant Palaeogenomics" group at UCD's School of Agriculture and Food Science.
 :::
 
 ::: column
-![A standard WFH day](kevin_and_moose.jpg width="200" height="100")
-:::
-:::
+<img src="kevin_and_moose.jpg" width=350"/> 
 
+A standard WFH day.
+:::
+:::
 
 I completed my undergraduate at Trinity College Dublin, where I began my academic career under the mentorship of Prof. Daniel Bradley.
 As part of Dan's ERC project "CODEX" I generated the [first large scale genomic dataset of an ancient livestock](https://www.science.org/doi/10.1126/science.aas9411), thus beginning my minor obsession and healthy research interest in goats.
