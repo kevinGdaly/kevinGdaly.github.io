@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-!()\[in_the_lab.jpg\]
+![](in_the_lab.jpg)
 
 ## Group Leader: Kevin Daly
 
@@ -31,7 +31,7 @@ I look forward to doing so again and hope to support the movement in any way I c
 In my free time I watch films and maintain a list of [the best goat roles in cinema](https://boxd.it/4BHse).
 You won't believe what's at number one!
 
-![](C.jpg) ![](Z.jpeg)
+![](C.jpg) | ![](Z.jpeg)
 
 ## PhD Students
 
