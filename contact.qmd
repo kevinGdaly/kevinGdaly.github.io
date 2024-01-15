@@ -1,8 +1,8 @@
 ---
   title: "Contact"
-editor: 
-  markdown: 
-  wrap: sentence
+  editor: 
+    markdown: 
+      wrap: sentence
 ---
   
 You can contact me (Kevin) at: kevin[at]palaeome.org

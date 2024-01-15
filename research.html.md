@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 echo: false
 section-divs: false
 keep-md: true
