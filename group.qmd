@@ -14,6 +14,7 @@ editor:
 Hello!
 
 
+
 I am the leader of the self-styled "Ruminant Palaeogenomics" group at UCD's School of Agriculture and Food Science.
 :::
 
@@ -37,13 +38,13 @@ More recently I have been awarded an [SFI Pathways award](https://www.tcd.ie/new
 
 I am a member of the first cohort of the [Young Academy of Ireland](https://www.ria.ie/kevin-gerard-daly), the least among an [exceptional group](https://www.ria.ie/bios/young-academy-ireland/all) of young researchers and leaders.
 
-I am a proponent to alternative peer review publishing models, and have [submitted manuscripts](https://genomics.peercommunityin.org/articles/rec?id=162) through the Peer Community In system.
+I am a proponent to alternative peer review publishing models, and have [submitted manuscripts](https://genomics.peercommunityin.org/articles/rec?id=162) through the "Peer Community In" system.
 I look forward to doing so again and hope to support the movement in any way I can.
 
 In my free time I watch films and maintain a list of [the best goat roles in cinema](https://boxd.it/4BHse).
 You won't believe what's at number one!
 
-<img src="C.jpg" width="325"/> <img src="Z.jpeg" width=325"/> 
+<img src="C.jpg" width="335"/> <img src="Z.jpeg" width=335"/> 
 
 
 ## PhD Students

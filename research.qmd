@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 echo: false
 jupyter: python3
 section-divs: false
