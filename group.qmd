@@ -50,10 +50,33 @@ You won't believe what's at number one!
 ## PhD Students
 
 ### Louis L'Hôte
+
+::: columns
+::: column
+
+<br />
+<br />
 I am Louis, PhD student in ancient pathogen genetics.
 
-After a undegraduate degree in life science i followed a Master in Engineering in Microbiology at the [Faculté des sciences et technologies, Université de Lorraine](https://fst.univ-lorraine.fr/). Throughout my master degree i got the chance to be part of different research project: In 2021 i worked ancient woolly mammoth microbiota at the [Microbial Palaeogenomics Unit](https://research.pasteur.fr/en/team/microbial-paleogenomics/) of the Pasteur institute in Paris. This experience gave me the opportunity to learn a lot about metagenomics techniques and ancient DNA. It is why in 2022 i decided to do my master thesis in Copenhagen in the [Centre for ExoLife Sciences](https://cels.nbi.ku.dk/english) (CELS) where i used metagenomics and metatranscriptomics techniques to understand how microbes are surviving in mars-like extreme environment.
+After a undegraduate degree in life science i followed a Master in Engineering in Microbiology at the [Faculté des sciences et technologies, Université de Lorraine](https://fst.univ-lorraine.fr/). Throughout my master degree i got the chance to be part of different research project: In 2021 i worked ancient woolly mammoth microbiota at the [Microbial Palaeogenomics Unit](https://research.pasteur.fr/en/team/microbial-paleogenomics/) of the Pasteur institute in Paris. 
+<br />
+:::
 
-I am currently Kevin Daly's PhD student and part of the SFI Pathways project “Herd Health”. Livestock animals were domesticated 10 000 years ago in southwest Asia, but little is known about their health (inbreeding, infectious disease) despite their underpinning of farmer societies. In the last few years, the advancement of Next generation sequencing techniques has made it possible to reconstruct different genomes of ancient human pathogens from archaeological specimens, such as _Yersinia pestis_, the agent of the Black Death. So far, the reconstruction of pathogen genomes has mainly been performed on human pathogens. My work focuses on obtaining pathogen and animal DNA from 10 000 years old sheep and goat material, from the Zagros Mountain in Iran, in order to understand how sheep and goat zoonotic pathogen evolution was shaped by the onset of domestication.
+::: column
+<img src="louis2.png" width="280"/>  
+:::
+:::
+
+This experience gave me the opportunity to learn a lot about metagenomics techniques and ancient DNA. It is why in 2022 i decided to do my master thesis in Copenhagen in the [Centre for ExoLife Sciences](https://cels.nbi.ku.dk/english) (CELS) where i used metagenomics and metatranscriptomics techniques to understand how microbes are surviving in Mars-like extreme environment.
+<br />
+<br />
+<img src="louis3.png" width="400"/> <img src="louis1.png" width=300"/> 
+<br />
+<br />
+I am currently Kevin Daly's PhD student and part of the SFI Pathways project “Herd Health”. Livestock animals were domesticated 10 000 years ago in southwest Asia, but little is known about their health (inbreeding, infectious disease) despite their underpinning of farmer societies. 
+<br />In the last few years, the advancement of Next generation sequencing techniques has made it possible to reconstruct different genomes of ancient human pathogens from archaeological specimens, such as _Yersinia pestis_, the agent of the Black Death. So far, the reconstruction of pathogen genomes has mainly been performed on human pathogens. My work focuses on obtaining pathogen and animal DNA from 10,000 years old sheep and goat material, from the Zagros Mountain in Iran, in order to understand how sheep and goat zoonotic pathogen evolution was shaped by the onset of domestication.
 
 I'm interested in everything to do with microbes. From ancient DNA to wet lab.
+
+
+
