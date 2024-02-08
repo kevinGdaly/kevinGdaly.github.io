@@ -5,7 +5,6 @@
       wrap: sentence
 ---
   
-You can contact me (Kevin) at: kevin[at]palaeome.org
+You can contact me (Kevin) at: kevin[at]palaeome.org or kevin.daly[at]ucd.ie
 
-UCD address to come.
   
