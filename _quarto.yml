@@ -11,6 +11,7 @@ website:
       - group.qmd
       - research.qmd
       - contact.qmd
+      - opportunities.qmd
 
 format:
   html:
