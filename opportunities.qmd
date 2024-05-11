@@ -1,7 +1,9 @@
----                                                                                 opportunities.qmd *                                                                                          
-title: "Kevin G. Daly: Ruminant Palaeogenomics"
 ---
-
+title: "Opportunities"
+editor: 
+  markdown: 
+    wrap: sentence
+---
 
 ## **Funded PhD Project (European/UK/International Students)**
 
