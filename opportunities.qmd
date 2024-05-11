@@ -4,7 +4,8 @@ editor:
   markdown: 
     wrap: sentence
 ---
-##**Come work with me!**~~
+##**Come work with me!**
+
 If you are interested in joining a recently-formed group and studying the evolution and dynamics of ancient domesticates with palaeogenomics - come work with me!
 
 For those interested in writing a funding application for PhD (i.e. IRC) or postdoctoral funds (i.e. MCRA), please email me at kevin.daly[at]ucd.ie.
@@ -13,7 +14,7 @@ And I am currently recruiting a PHD student - see below.
 
 #### **Funded PhD Project (European/UK/International Students)**
 
-A UCD funded 4 year PhD for EU, UK and international applicants is available in the School of Agriculture and Food Science, University College Dublin, Ireland. The project will investigate the genetic histories of ancient small ruminants (goat and sheep), the origins of zoonotic pathogens, and how they relate to the genomic health of herds in the deep past. 
+A UCD-funded 4 year PhD for EU, UK and international applicants is available in the School of Agriculture and Food Science, University College Dublin, Ireland. The project will investigate the genetic histories of ancient small ruminants (goat and sheep), the origins of zoonotic pathogens, and how they relate to the genomic health of herds in the deep past. 
 
 The position includes a student stipend of €22,000 per annum for the course of the PhD and postgraduate fees will be covered. A flexible start date within Q3/Q4 of 2024 is possible.
 
@@ -22,7 +23,7 @@ Genetic analysis from ancient animal remains has revealed the dynamics of the ea
 
 The project will generate sequencing data from a diverse range of sheep and goat archaeological remains over the last 10,000 years. Recovered DNA from both host and pathogen sources will be used to reconstruct genomes and chart the interlinked evolution and genetic flux of domestic ruminants and their zoonotic pathogens. The project will involve drawing from multiple disciplines and lines of evidence including genomics, microbial/pathogen evolution, archaeology and zooarchaeology, zoology/veterinary science; a flexible approach and openness to working in multiple disciplines is expected.
 
-The trainee will be mentored by !(https://scholar.google.com/citations?user=N--aZF8AAAAJ&hl=en, "Dr. Kevin Daly"). The successful candidate will have opportunities to present at international & remotely run training courses and academic conferences.
+The trainee will be mentored by [Dr. Kevin Daly](https://scholar.google.com/citations?user=N--aZF8AAAAJ&hl=en). The successful candidate will have opportunities to present at international & remotely run training courses and academic conferences.
 
 A background in any of the following is preferred: biology, genetics & genomics, domestication, population genetics, animal genomics, microbial genetics, bioinformatics, mathematical biology, archaeology. Programming and bioinformatic experience (e.g. Linux environment, R) is an advantage but not essential; training in bioinformatics, data analysis and population genomics will be available for the student. Interested candidates with at least a 2.1 undergraduate degree or international equivalent can submit their CV, two letters of recommendation or references, to kevin.daly[at]ucd.ie.
 
