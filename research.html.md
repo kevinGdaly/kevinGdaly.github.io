@@ -11,6 +11,15 @@ keep-md: true
 ## Published
 
 ::: {#published-year .cell execution_count=2}
+### 2024{#published-2024}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Ian Light, Valeria Mattiangeli, Matthew D. Teasdale, Áine Halpin, Lionel Gourichon, Felix M. Key, and <strong>Kevin G. Daly</strong>. (2024) "An 8000 years old genome reveals the Neolithic origin of the zoonosis Brucella melitensis." <em>Nature Communications</em><br><a class="btn btn-outline-dark btn-sm", href="https://www.nature.com/articles/s41467-024-50536-1" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a></li></ul>
+```
+
 ### 2022{#published-2022}
 
 ```{=html}
