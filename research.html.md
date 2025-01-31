@@ -17,10 +17,6 @@ keep-md: true
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong>Kevin G. Daly</strong>, Victoria E. Mullin, Andrew E. Hare, Joris Peters, and Daniel G. Bradley. (2025) "Ancient genomics and the origin, dispersal, and development of domestic sheep." <em>Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://www.science.org/doi/10.1126/science.adn2094" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
-    </a></li>
-<li class='list-group-item'><strong>Kevin G. Daly</strong>, Victoria E. Mullin, Andrew E. Hare, Joris Peters, and Daniel G. Bradley. (2025) "Ancient genomics and the origin, dispersal, and development of domestic sheep." <em>Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://www.science.org/doi/10.1126/science.adn2094" target="_blank" rel="noopener noreferrer">
-        <i class="ai ai-archive" role='img' aria-label='Published'></i>
-        Published
     </a> <a class="btn btn-outline-dark btn-sm", href="https://www.science.org/doi/10.1126/science.adn2094" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Open Access'></i>
         Open Access

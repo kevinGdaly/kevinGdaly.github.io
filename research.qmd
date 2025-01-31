@@ -61,13 +61,10 @@ for _, data in yaml_data.items():
         if year_str not in pub_strs["pubs"]:
             pub_strs["pubs"][year_str] = []
         buttons.append(button(pub_url, "Published", "ai-archive"))
-        pub_strs["pubs"][year_str].append(
-            "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
-         )
         if open_access is not None:
             buttons.append(button(pub_url, "Open Access", "ai-archive"))
-            pub_strs["pubs"][year_str].append(
-            "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
+        pub_strs["pubs"][year_str].append(
+        "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
          )
 
 ```
