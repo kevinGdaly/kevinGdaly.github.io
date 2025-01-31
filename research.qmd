@@ -63,8 +63,13 @@ for _, data in yaml_data.items():
         buttons.append(button(pub_url, "Published", "ai-archive"))
         pub_strs["pubs"][year_str].append(
             "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
+         )
         if open_access is not None:
             buttons.append(button(pub_url, "Open Access", "ai-archive"))
+            pub_strs["pubs"][year_str].append(
+            "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
+         )
+
 ```
 
 ## Published
