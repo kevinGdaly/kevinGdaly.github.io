@@ -37,6 +37,8 @@ for _, data in yaml_data.items():
     buttons = []
     preprint = data.get("preprint")
     open_access = data.get("open_access_url")
+    if open_access is not None:
+      buttons.append(button(open_access, "Open Access", "ai-archive"))
     if preprint is not None:
         buttons.append(button(preprint, "Preprint", "bi-file-earmark-pdf"))
     github = data.get("github")
@@ -61,8 +63,6 @@ for _, data in yaml_data.items():
         if year_str not in pub_strs["pubs"]:
             pub_strs["pubs"][year_str] = []
         buttons.append(button(pub_url, "Published", "ai-archive"))
-        if open_access is not None:
-            buttons.append(button(open_access, "Open Access", "ai-archive"))
         pub_strs["pubs"][year_str].append(
         "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "<br>"  + "</li>"
          )
