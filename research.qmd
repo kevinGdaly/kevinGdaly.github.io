@@ -37,6 +37,7 @@ for _, data in yaml_data.items():
     buttons = []
     preprint = data.get("preprint")
     open_access=data.get("open_access_url")
+    print(open_access)
     if preprint is not None:
         buttons.append(button(preprint, "Preprint", "bi-file-earmark-pdf"))
     github = data.get("github")
