@@ -72,7 +72,10 @@ keep-md: true
 ### 2025{#not-published-2025}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Jolijn A. M. Erven, Alice Etuorneau, Marjan Mashkour, The VarGoats Consortium, Bertrand Servin, Ben Rosen, Gwenola Tosser-Klopp, and <strong>Kevin G. Daly</strong>. (2025) "Inferring domestic goat demographic history through ancient genome imputation." <em>bioRxiv</em><br></li></ul>
+<ul class='list-group list-group-flush'><li class='list-group-item'>Jolijn A. M. Erven, Alice Etuorneau, Marjan Mashkour, The VarGoats Consortium, Bertrand Servin, Ben Rosen, Gwenola Tosser-Klopp, and <strong>Kevin G. Daly</strong>. (2025) "Inferring domestic goat demographic history through ancient genome imputation." <em>bioRxiv</em><br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
+        Preprint
+    </a></li></ul>
 ```
 
 :::
