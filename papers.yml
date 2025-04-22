@@ -1,3 +1,19 @@
+imputation_2025:
+  title: "Inferring domestic goat demographic history through ancient genome imputation"
+  authors:
+    - Jolijn A. M. Erven
+    - Alice Etuorneau
+    - Marjan Mashkour
+    - The VarGoats Consortium
+    - Bertrand Servin
+    - Ben Rosen
+    - Gwenola Tosser-Klopp
+    - me
+  year: 2025
+  Preprint: Yes
+  venue: bioRxiv
+  preprint_url: https://www.biorxiv.org/content/10.1101/2025.04.18.649576v1
+
 sheep_2025:
   title: "Ancient genomics and the origin, dispersal, and development of domestic sheep"
   authors:

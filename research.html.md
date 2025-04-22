@@ -68,5 +68,13 @@ keep-md: true
 
 ## Working Papers / Non-archival
 
+::: {#not-published-year .cell execution_count=3}
+### 2025{#not-published-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Jolijn A. M. Erven, Alice Etuorneau, Marjan Mashkour, The VarGoats Consortium, Bertrand Servin, Ben Rosen, Gwenola Tosser-Klopp, and <strong>Kevin G. Daly</strong>. (2025) "Inferring domestic goat demographic history through ancient genome imputation." <em>bioRxiv</em><br></li></ul>
+```
+
+:::
 
 
