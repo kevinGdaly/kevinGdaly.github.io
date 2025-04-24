@@ -55,15 +55,25 @@ I completed my master’s training in genetics at Wageningen University, where I
 :::
 
 ::: column
-<img src="jolijn3.jpg" width="350&quot;/"/>
+<img src="jolijn1.jpg" width="350&quot;/"/>
 
 :::
 :::
 
-
+::: columns
+::: column
 This interest led me to pursue a PhD at the Groningen Institute of Archaeology, where I worked on the EDAN project.
 There, I focused on the domestication processes of cattle and pigs in the Netherlands—and more broadly, Europe—using palaeogenomics to understand how early communities shaped, and were shaped by, the animals they lived alongside.
+:::
 
+::: column
+<img src="jolijn2.jpg" width="350&quot;/"/>
+
+:::
+:::
+
+::: columns
+::: column
 I am currently exploring the demographic history of domestic goats by studying early herding societies and the dispersal from early domestication centres.
 I’m particularly keen on using every tool in our bioinformatics toolbox to better understand demographic shifts and evolutionary processes throughout the past.
 
@@ -72,7 +82,12 @@ More broadly, I’m curious about how animals evolve in response to human or nat
 I strongly believe in the power of interdisciplinary collaboration and enjoy connecting data from different sources to answer long-standing questions about past demographic history.
 
 When I’m not in the lab or wrangling data, I love sharing quirky animal trivia—or just talking your ears off about animals and/or bioinformatics tools.
+:::
+::: column
+<img src="jolijn3.jpg" width="350&quot;/"/>
 
+:::
+:::
 
 ## PhD Students
 
