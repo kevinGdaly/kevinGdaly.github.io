@@ -60,7 +60,7 @@ I completed my master’s training in genetics at Wageningen University, where I
 :::
 
 ::: column
-<img src="jolijn1.jpg" width="350&quot;/"/>
+<img src="jolijn1.jpg" width="220&quot;/"/>
 
 :::
 :::
