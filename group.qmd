@@ -47,10 +47,19 @@ You won't believe what's at number one!
 ## Postdoctoral Researchers
 
 ### Jolijn Erven
-
+::: columns
+::: column
 Hello!
 I’m Jolijn Erven, a Postdoc in Daly’s Ruminant Palaeogenomics working group.
 I completed my master’s training in genetics at Wageningen University, where I strengthened my fascination with animal domestication, evolution, and behaviour.
+:::
+
+::: column
+<img src="jolijn3.jpg" width="350&quot;/"/>
+
+:::
+:::
+
 
 This interest led me to pursue a PhD at the Groningen Institute of Archaeology, where I worked on the EDAN project.
 There, I focused on the domestication processes of cattle and pigs in the Netherlands—and more broadly, Europe—using palaeogenomics to understand how early communities shaped, and were shaped by, the animals they lived alongside.
