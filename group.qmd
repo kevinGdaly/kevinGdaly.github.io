@@ -49,9 +49,12 @@ You won't believe what's at number one!
 ### Jolijn Erven
 ::: columns
 ::: column
+
 Hello!
 
+
 I’m Jolijn Erven, a Postdoc in Daly’s Ruminant Palaeogenomics working group.
+
 
 I completed my master’s training in genetics at Wageningen University, where I strengthened my fascination with animal domestication, evolution, and behaviour.
 :::
