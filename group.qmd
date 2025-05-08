@@ -145,9 +145,10 @@ Currently, I am working on my PhD project, which aims to study the co-evolution 
 
 ::: column
 <img src="luisa1.jpg" width="350"/>
-
+<br /> <br />
 <img src="luisa2.jpg" width="350"/>
-
+<br /> <br />
+<br /> <br />
 <img src="luisa3.jpg" width="350"/>
 :::
 :::
