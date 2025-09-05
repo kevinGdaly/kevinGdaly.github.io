@@ -33,14 +33,16 @@ Together with Louis L'Hôte (PhD student) we are exploring the deep history of a
 ![The group at TCD, 2023 - new image to come](group_smurfit_small.png)
 :::
 :::
-
-
+<br/><br/>
+<br/><br/>
 ## ** Recruiting PhD students for ERC Porject HERDPATH**
-A European Research Council-funded 4 year PhD project for EU, UK and international applicants is available in the School of Agriculture and Food Science, University College Dublin, Ireland. Highly motivated students are invited to apply for a PhD position within the HERDPATH project, led by Dr. Kevin Daly and the Ruminant Palaeogenomics group. 
 
+A European Research Council-funded 4 year PhD project for EU, UK and international applicants is available in the School of Agriculture and Food Science, University College Dublin, Ireland. Highly motivated students are invited to apply for a PhD position within the HERDPATH project, led by Dr. Kevin Daly and the Ruminant Palaeogenomics group. 
+<br/><br/>
 HERDPATH is an ambitious project aiming to transform our understanding of how livestock domestication and management shaped both herd and pathogen evolution over the past 10,000 years. Using cutting-edge palaeogenomic approaches, we will analyse ancient DNA from archaeological livestock remains - focusing on sheep and goat but drawing on data from other species - across Eurasia to reveal the dynamic interplay between domestication, pathogen evolution, herd inbreeding, and immune gene variation. PhD projects will focus on either livestock or pathogen genomes, but will be in dialogue with other components of HERDPATH.
 <br/><br/>
 ## Context
+
 Genetic analysis from ancient animal remains has revealed the dynamics of the early domestication process (e.g. Daly et al 2018 and 2025; Daly et al, 2021; Verdugo et al, 2019). However, little is known about the genomic health of domesticates - the reduction in genetic diversity which may have occurred throughout domestication and its possible consequences to animal resilience to infectious disease. Similarly, ancient genomic analysis has begun to shed light on the genetic history of human pathogens, including some zoonotic agents (e.g. Key et al, 2020; L’Hôte al al. 2024; Light-Maka et al, 2025), but how such zoonoses evolved with their domestic animal hosts is unknown. How livestock-specific pathogens evolved and adapted to their host species is relatively underexplored. Finally, little is understood of the adaptive process in livestock species themselves to these infectious disease threats, and how trends in genetic diversity and inbreeding may have affected herd susceptibility.
 <br/><br/>
 The project will generate sequencing data from a diverse range of sheep and goat archaeological remains over the last 10,000 years. Recovered DNA from both host and pathogen sources will be used to reconstruct genomes and chart the interlinked evolution and genetic flux of domestic ruminants and their pathogens, both zoonotic and livestock-specific. The project will involve drawing from multiple disciplines and lines of evidence including genomics, microbial/pathogen evolution, archaeology and zooarchaeology, zoology/veterinary science; a flexible approach and openness to working in multiple disciplines is expected.
@@ -52,6 +54,7 @@ A background in any of the following is preferred: biology, genetics & genomics,
 Application deadline: 3rd October
 <br/><br/>
 ## Relevant Literature
+
 Daly et al, 2018, "Ancient goat genomes reveal mosaic domestication in the Fertile Crescent", Science
 Daly et al, 2021, “Herded and hunted goat genomes from the dawn of domestication in the Zagros Mountains”, PNAS
 Daly et al, 2025, "Ancient genomics and the origin, dispersal, and development of domestic sheep", Science
