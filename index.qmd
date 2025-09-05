@@ -57,10 +57,16 @@ Application deadline: 3rd October 2025.
 #### Relevant Literature
 
 Daly et al, 2018, "Ancient goat genomes reveal mosaic domestication in the Fertile Crescent", Science
+<br/><br/>
 Daly et al, 2021, “Herded and hunted goat genomes from the dawn of domestication in the Zagros Mountains”, PNAS
+<br/><br/>
 Daly et al, 2025, "Ancient genomics and the origin, dispersal, and development of domestic sheep", Science
+<br/><br/>
 L’Hôte et al, 2024,"An 8000 years old genome reveals the Neolithic origin of the zoonosis Brucella melitensis", Nature Communications
+<br/><br/>
 Verdugo et al, 2019, “Ancient cattle genomics, origins, and rapid turnover in the Fertile Crescent”, Science
+<br/><br/>
 Key et al, 2020, “Emergence of human-adapted Salmonella enterica is linked to the Neolithization process”, Nature Ecology & Evolution
+<br/><br/>
 Light-Maka et al, 2025, Bronze Age Yersinia pestis genome from sheep sheds light on hosts and evolution of a prehistoric plague lineage, Cell
 
