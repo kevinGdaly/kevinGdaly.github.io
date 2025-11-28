@@ -1,3 +1,29 @@
+sheeppox_bouteiller_2025:
+  title: "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage"
+  authors:
+    - Annelise Binois-Roman
+    - Louis L’Hôte
+    - Roisin Ferguson
+    - Kevin G. Daly
+  year: 2025
+  preprint: yes
+  preprint_url: https://www.biorxiv.org/content/10.1101/2025.11.24.690131v1
+
+irishgoat_2025:
+  title: "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland"
+  authors:
+    - Judith Findlater
+    - Jolijn A. M. Erven
+    - Alex Siekmann
+    - Valeria Mattiangeli
+    - The VarGoats Consortium
+    - Eileen Murphy
+    - Kevin G. Daly
+  year: 2025
+  preprint: yes
+  preprint_url: https://www.biorxiv.org/content/10.1101/2025.09.26.678852v1
+
+
 imputation_2025:
   title: "Inferring domestic goat demographic history through ancient genome imputation"
   authors:
@@ -10,9 +36,8 @@ imputation_2025:
     - Gwenola Tosser-Klopp
     - me
   year: 2025
-  preprint: Yes
-  venue: bioRxiv
-  preprint_url: https://www.biorxiv.org/content/10.1101/2025.04.18.649576v1
+  venue: Genomes Biology & Evolution
+  published_url: https://academic.oup.com/gbe/article/17/11/evaf181/8317779?login=false
 
 sheep_2025:
   title: "Ancient genomics and the origin, dispersal, and development of domestic sheep"
