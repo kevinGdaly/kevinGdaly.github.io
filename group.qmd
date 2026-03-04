@@ -11,7 +11,7 @@ title: "People"
 ::: columns
 ::: {.column width="65%"}
 
-I am an Ad Astra Fellow — Lecturer/Assistant Professor at UCD's School of Agriculture and Food Science, where I lead the "Ruminant Palaeogenomics" group.
+I am a Lecturer/Assistant Professor at UCD's School of Agriculture and Food Science, where I lead the "Ruminant Palaeogenomics" group.
 
 I completed my undergraduate at Trinity College Dublin, where I began my academic career under the mentorship of Prof. Daniel Bradley. As part of Dan's ERC project "CODEX" I generated the [first large-scale genomic dataset of an ancient livestock](https://www.science.org/doi/10.1126/science.aas9411), thus beginning my healthy research interest in goats.
 
@@ -19,7 +19,7 @@ Following my PhD I had the fortune to collaborate with Dr. Melinda Zeder on mate
 
 I have also explored the genomics of ancient sheep — a species arguably more important than goats, if perhaps less charismatic. [See here](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2021.0222?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org) for a sheep mummy genome from a specimen we initially thought was a goat, led by the peerless Dr. Conor Rossi.
 
-More recently I have been awarded an [SFI Pathways award](https://www.tcd.ie/news_events/articles/trinity-researchers-secure-eight-sfi-irc-pathway-awards/) to explore small ruminant pathogens in the earliest phases of livestock domestication. I am a member of the first cohort of the [Young Academy of Ireland](https://www.ria.ie/kevin-gerard-daly), the least among an [exceptional group](https://www.ria.ie/bios/young-academy-ireland/all) of young researchers and leaders.
+More recently I have been awarded an ERC Starter award to explore how livestock and their pathogens have coevolved: [HERDPATH](https://cordis.europa.eu/project/id/101220382). Previously I led a [SFI Pathways award](https://www.tcd.ie/news_events/articles/trinity-researchers-secure-eight-sfi-irc-pathway-awards/) to explore small ruminant pathogens in the earliest phases of livestock domestication. I am a member of the first cohort of the [Young Academy of Ireland](https://www.ria.ie/kevin-gerard-daly), the least among an [exceptional group](https://www.ria.ie/bios/young-academy-ireland/all) of young researchers and leaders.
 
 I am a proponent of alternative peer review publishing models and have [submitted manuscripts](https://genomics.peercommunityin.org/articles/rec?id=162) through the "Peer Community In" system. I look forward to doing so again and hope to support the movement however I can.
 
