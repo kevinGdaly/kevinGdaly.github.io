@@ -11,6 +11,15 @@ keep-md: true
 ## Published
 
 ::: {#published-year .cell execution_count=2}
+### 2026{#published-2026}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Judith Findlater, Jolijn A. M. Erven, Alex Siekmann, Valeria Mattiangeli, The VarGoats Consortium, Eileen Murphy, and Kevin G. Daly. (2026) "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland." <em>Journal of Archaeological Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://authors.elsevier.com/sd/article/S0305-4403(26)00046-4" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a><br></li></ul>
+```
+
 ### 2025{#published-2025}
 
 ```{=html}
@@ -73,6 +82,15 @@ keep-md: true
 ## Working Papers / Non-archival
 
 ::: {#not-published-year .cell execution_count=3}
+### 2026{#not-published-2026}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Luisa Sacristan, Roisin Ferguson, Sébastien Calvignac-Spencer, Kevin G. Daly, and and many others. (2026) "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
+        Preprint
+    </a></li></ul>
+```
+
 ### 2025{#not-published-2025}
 
 ```{=html}
@@ -80,7 +98,7 @@ keep-md: true
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
         Preprint
     </a></li>
-<li class='list-group-item'>Judith Findlater, Jolijn A. M. Erven, Alex Siekmann, Valeria Mattiangeli, The VarGoats Consortium, Eileen Murphy, and Kevin G. Daly. (2025) "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2025) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
         Preprint
     </a></li></ul>

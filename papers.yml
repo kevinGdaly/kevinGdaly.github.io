@@ -1,3 +1,16 @@
+sheeppox_3500_2026:
+  title: "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes"
+  authors:
+    - Louis L’Hôte
+    - Luisa Sacristan
+    - Roisin Ferguson
+    - Sébastien Calvignac-Spencer
+    - Kevin G. Daly
+    - and many others
+  year: 2026
+  preprint: yes
+  preprint_url: https://www.biorxiv.org/content/10.64898/2026.02.23.707469v2
+
 sheeppox_bouteiller_2025:
   title: "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage"
   authors:
@@ -9,6 +22,28 @@ sheeppox_bouteiller_2025:
   preprint: yes
   preprint_url: https://www.biorxiv.org/content/10.1101/2025.11.24.690131v1
 
+leather_2025:
+  title: "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)"
+  authors:
+    - Jolijn A. M. Erven
+    - Zoé Robinet Guyet
+    - Louis L'Hôte
+    - Valeria Mattiangeli
+    - Eva Fernández-Domínguez
+    - Geordie Laidlaw
+    - Rafael M. Martínez Sánchez
+    - Blas Ramos Rodríguez
+    - Maria Herrero-Otal
+    - Pedro Henríquez Valido
+    - José Antonio Lozano Rodríguez
+    - The VarGoats consortium
+    - Daniel G. Bradley
+    - Kevin G. Daly
+    - Francisco Martínez-Sevilla
+  year: 2025
+  preprint: yes
+  preprint_url: https://www.biorxiv.org/content/10.64898/2025.12.01.691547v1
+
 irishgoat_2025:
   title: "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland"
   authors:
@@ -19,9 +54,9 @@ irishgoat_2025:
     - The VarGoats Consortium
     - Eileen Murphy
     - Kevin G. Daly
-  year: 2025
-  preprint: yes
-  preprint_url: https://www.biorxiv.org/content/10.1101/2025.09.26.678852v1
+  year: 2026
+  venue: Journal of Archaeological Science
+  published_url: https://authors.elsevier.com/sd/article/S0305-4403(26)00046-4
 
 
 imputation_2025:
