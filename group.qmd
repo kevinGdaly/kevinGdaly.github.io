@@ -85,7 +85,7 @@ When I'm not in the lab or wrangling data, I love sharing quirky animal trivia �
 ### Louis L'Hôte
 
 ::: columns
-::: {.column width="65%"}
+::: {.column width="100%"}
 
 I am Louis, a PhD student in ancient pathogen genetics. After an undergraduate degree in life sciences, I pursued a Master's in Engineering in Microbiology at the [Faculté des sciences et technologies, Université de Lorraine](https://fst.univ-lorraine.fr/).
 
