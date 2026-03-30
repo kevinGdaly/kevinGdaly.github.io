@@ -170,3 +170,35 @@ Currently I am contributing to research on functional annotation of sheep epigen
 
 ![](xinyi3.jpg)
 :::
+
+
+---
+
+### Jules Berardini
+
+::: columns
+::: {.column width="65%"}
+
+I am a doctoral student in the Ruminant Paleogenomics group, working within Kevin Daly’s HEARDPATH ERC, to evaluate the impact of domestication and continued anthropogenic management on the genomic health of sheep and goats. 
+
+I received my undergraduate degree from the University of Toronto, double majoring in Evolutionary Biology and Molecular Genetics, and minoring in Archaeology. During this time, I completed an independent research project (the Canadian approximation of a Bachelor’s thesis) within the Wilde Lab focusing on characterizing isoforms of the structural actin protein in nematode worms. 
+
+In the pursuit of synthesizing my research interests, and satiating an ever-present thirst for understanding the long intertwined relationships between humans and non-human animals, I undertook a Master's degree in Palaeogenetics at the University of Tübingen as part of the ASHE program. Working in the Posth Lab, I analyzed a set of wooly rhinoceros genomes from the species' poorly characterized western range, in order to understand its evolution and extinction. In this time, I became increasingly fascinated with the phenomenon of megaherbivore extinction and the ultimate (though arguably impartial) replacement of their ecological roles by agricultural humans, inclusive of the rise of domesticate ruminant populations. 
+
+Within my PhD, I hope to use an interdisciplinary approach to interpret genetic data — integrating archaeological and ethnographic sources alongside bioinformatic analysis to inform on how migration, economics, climate, and husbandry practice have impacted herd welfare, species adaptation, and breed development in different periods and places.”
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+
+:::
+:::
+
+::: {layout-ncol=2}
+![](jules1.jpg)
+
+![](jules2.jpg)
+:::
+:::
