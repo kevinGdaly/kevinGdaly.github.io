@@ -195,3 +195,35 @@ Within my PhD, I hope to use an interdisciplinary approach to interpret genetic 
 ![](jules2.jpg)
 :::
 :::
+
+
+---
+
+
+### Michael Harrold
+
+::: columns
+::: {.column width="65%"}
+
+
+
+I am a PhD student in Kevin Daly’s Ruminant Palaeogenomics group at UCD, working on the ERC-funded HERDPATH project. I completed a BSc in Genetics and Genomics at the University of Galway, where I carried out a final-year research project in pathogen genomics with Professor Matthew Dorman, followed by an MSc in Genomic Medicine at Trinity College Dublin. My research focuses on the pathogen side of HERDPATH, using palaeogenomics to investigate the evolution of livestock pathogens and host–pathogen interactions in archaeological sheep and goat remains over time. I have had a long-standing interest in ancient DNA and look forward to developing this work within the group.
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+
+![](michael1.png){width="100%" style="border-radius: 4px;"}
+
+:::
+:::
+
+::: {layout-ncol=2}
+![](michael2.png)
+
+![](michael3.png)
+:::
+
+
