@@ -1,5 +1,8 @@
 ---
 title: "People"
+
+lightbox: true
+
 ---
 
 ![](in_the_lab.jpg){width="100%" style="border-radius: 6px;"}
@@ -179,7 +182,7 @@ Currently I am contributing to research on functional annotation of sheep epigen
 ::: columns
 ::: {.column width="100%"}
 
-I am a doctoral student in the Ruminant Paleogenomics group, working within Kevin Daly’s HEARDPATH ERC, to evaluate the impact of domestication and continued anthropogenic management on the genomic health of sheep and goats. 
+I am a doctoral student in the Ruminant Paleogenomics group, working within Kevin Daly’s HERDPATH ERC, to evaluate the impact of domestication and continued anthropogenic management on the genomic health of sheep and goats. 
 
 I received my undergraduate degree from the University of Toronto, double majoring in Evolutionary Biology and Molecular Genetics, and minoring in Archaeology. During this time, I completed an independent research project (the Canadian approximation of a Bachelor’s thesis) within [the Wilde Lab](http://individual.utoronto.ca/wildelab/) focusing on characterizing isoforms of the structural actin protein in nematode worms. 
 
@@ -227,3 +230,15 @@ I am a PhD student in Kevin Daly’s Ruminant Palaeogenomics group at UCD, worki
 :::
 
 
+---
+
+
+## Group Photos
+
+::: {layout-ncol=3}
+![Cambridge 2026](group1.jpg){.lightbox group="gallery"}
+
+![Escape Room 2026](group2.jpg){.lightbox group="gallery"}
+
+
+:::
