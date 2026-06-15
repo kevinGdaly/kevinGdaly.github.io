@@ -9,7 +9,7 @@ sheeppox_3500_2026:
     - and many others
   year: 2026
   preprint: yes
-  preprint_url: https://www.biorxiv.org/content/10.64898/2026.02.23.707469v2
+  preprint_url: https://www.biorxiv.org/content/10.64898/2026.02.23.707469v3
 
 sheeppox_bouteiller_2025:
   title: "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage"
@@ -18,9 +18,10 @@ sheeppox_bouteiller_2025:
     - Louis L’Hôte
     - Roisin Ferguson
     - Kevin G. Daly
-  year: 2025
-  preprint: yes
-  preprint_url: https://www.biorxiv.org/content/10.1101/2025.11.24.690131v1
+  year: 2026
+  venue: Royal Society Open Science
+  published_url: https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth
+
 
 leather_2025:
   title: "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)"

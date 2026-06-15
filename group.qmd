@@ -14,7 +14,7 @@ lightbox: true
 ::: columns
 ::: {.column width="65%"}
 
-I am a Lecturer/Assistant Professor at UCD's School of Agriculture and Food Science, where I lead the "Ruminant Palaeogenomics" group.
+I am an Associate Professor at UCD's School of Agriculture and Food Science, where I lead the "Ruminant Palaeogenomics" group.
 
 I completed my undergraduate at Trinity College Dublin, where I began my academic career under the mentorship of Prof. Daniel Bradley. As part of Dan's ERC project "CODEX" I generated the [first large-scale genomic dataset of an ancient livestock](https://www.science.org/doi/10.1126/science.aas9411), thus beginning my healthy research interest in goats.
 
@@ -229,8 +229,6 @@ I am a PhD student in Kevin Daly’s Ruminant Palaeogenomics group at UCD, worki
 ![](michael3.png)
 :::
 
-
----
 
 
 ## Group Photos
