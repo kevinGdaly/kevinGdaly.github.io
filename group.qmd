@@ -69,11 +69,6 @@ Previously, I completed my PhD in Infection Biology at University College Dublin
 :::
 :::
 
-::: {layout-ncol=2}
-![](jolijn2.jpg)
-
-![](jolijn3.jpg)
-:::
 
 ---
 
@@ -226,9 +221,9 @@ I am a PhD student in Kevin Daly’s Ruminant Palaeogenomics group at UCD, worki
 
 
 ## Previous Group members
-![Roisin Ferguson](https://scholar.google.com/citations?user=w03pSp4AAAAJ&hl=en)
+Roisin Ferguson - https://scholar.google.com/citations?user=w03pSp4AAAAJ&hl=en
 
-![Jolijn Erven](https://orcid.org/0000-0003-3620-8658)
+Jolijn Erven - https://orcid.org/0000-0003-3620-8658
 
 
 ## Group Photos
