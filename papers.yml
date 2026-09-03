@@ -8,8 +8,25 @@ sheeppox_3500_2026:
     - Kevin G. Daly
     - and many others
   year: 2026
+  venue: Science Advances
+  preprint_url: 10.1126/sciadv.aeh3571
+
+iberia_2026:
+  title: "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats"
+  authors:
+    - Áine Halpin
+    - Jolijn A. M. Erven
+    - Roger Alcàntara Fors
+    - Conor Rossi
+    - Andrew J. Hare
+    - Valeria Mattiangeli
+    - Maria Saña-Seguí
+    - Daniel G. Bradley
+    - Kevin G. Daly
+    - and many other
+  year: 2026
   preprint: yes
-  preprint_url: https://www.biorxiv.org/content/10.64898/2026.02.23.707469v3
+  preprint_url: https://www.biorxiv.org/content/10.64898/2026.07.21.739115v1.abstract
 
 sheeppox_bouteiller_2025:
   title: "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage"
@@ -21,7 +38,6 @@ sheeppox_bouteiller_2025:
   year: 2026
   venue: Royal Society Open Science
   published_url: https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth
-
 
 leather_2025:
   title: "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)"

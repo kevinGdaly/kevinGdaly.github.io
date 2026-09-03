@@ -50,27 +50,21 @@ In my free time I watch films and maintain a list of [the best goat roles in cin
 
 ## Postdoctoral Researchers
 
-### Jolijn Erven
+### Gillian McHugo
 
 ::: columns
 ::: {.column width="65%"}
 
-I'm Jolijn Erven, a Postdoc in the Ruminant Palaeogenomics group. I completed my master's training in genetics at Wageningen University, where I developed a fascination with animal domestication, evolution, and behaviour.
+I am a postdoctoral researcher in the Ruminant Palaeogenomics group working on the PastureFuture project funded by BiOrbic. I am a computational biologist and my research aims to integrate ancient and modern livestock genomics with functional genetic data to identify variants that can improve sustainability and productivity in livestock, particularly focusing on disease resistance.
 
-This led me to pursue a PhD at the Groningen Institute of Archaeology as part of the EDAN project, where I focused on the domestication of cattle and pigs in the Netherlands — and more broadly, Europe — using palaeogenomics to understand how early communities shaped, and were shaped by, the animals they lived alongside.
-
-I am currently exploring the demographic history of domestic goats by studying early herding societies and dispersal from early domestication centres. I'm particularly keen on using every tool in our bioinformatics toolbox to understand demographic shifts and evolutionary processes throughout the past.
-
-I'm especially interested in multidisciplinary approaches — drawing from various fields to trace the origins and adaptations of domestic animals. More broadly, I'm curious about how animals evolve in response to human or natural environments, and how behaviour, ecology, and genetics intersect in that story.
-
-When I'm not in the lab or wrangling data, I love sharing quirky animal trivia — or just talking your ears off about animals and/or bioinformatics tools.
+Previously, I completed my PhD in Infection Biology at University College Dublin with a thesis on integrative population and functional genomics of trypanotolerance in hybrid African cattle. Prior to that I completed an MSc in Evolutionary Biology, also at University College Dublin where I studied population genomics of the endangered Galway sheep breed, and an undergraduate degree in Natural Sciences at Trinity College Dublin, specialising in Zoology.
 
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="30%"}
 
-![](jolijn1.jpg){width="100%" style="border-radius: 4px;"}
+![](GillianMcHugo.jpg){width="100%" style="border-radius: 4px;"}
 
 :::
 :::
@@ -229,6 +223,12 @@ I am a PhD student in Kevin Daly’s Ruminant Palaeogenomics group at UCD, worki
 ![](michael3.png)
 :::
 
+
+
+## Previous Group members
+![Roisin Ferguson](https://scholar.google.com/citations?user=w03pSp4AAAAJ&hl=en)
+
+![Jolijn Erven](https://orcid.org/0000-0003-3620-8658)
 
 
 ## Group Photos
