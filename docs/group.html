@@ -364,7 +364,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="group1.jpg" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-20" title="Cambridge 2026"><img src="group1.jpg" class="img-fluid figure-img" alt="Cambridge 2026"></a></p>
+<p><a href="group1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-20" data-gallery="gallery" title="Cambridge 2026"><img src="group1.jpg" class="img-fluid figure-img" alt="Cambridge 2026"></a></p>
 <figcaption>Cambridge 2026</figcaption>
 </figure>
 </div>
@@ -372,7 +372,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="group2.jpg" class="lightbox" data-gallery="gallery" data-glightbox="description: .lightbox-desc-21" title="Escape Room 2026"><img src="group2.jpg" class="img-fluid figure-img" alt="Escape Room 2026"></a></p>
+<p><a href="group2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-21" data-gallery="gallery" title="Escape Room 2026"><img src="group2.jpg" class="img-fluid figure-img" alt="Escape Room 2026"></a></p>
 <figcaption>Escape Room 2026</figcaption>
 </figure>
 </div>
@@ -771,7 +771,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","openEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

@@ -9,7 +9,19 @@ sheeppox_3500_2026:
     - and many others
   year: 2026
   venue: Science Advances
-  preprint_url: 10.1126/sciadv.aeh3571
+  published_url: 10.1126/sciadv.aeh3571
+
+PIGSTI_2026:
+  title: "PIGSTI: a modular, reproducible pipeline for detecting species identity, pathogens, and microbes from animal palaeogenomic data"
+  authors:
+    - Louis L’Hôte
+    - Catherine Butt
+    - Áine Halpin
+    - Daniel Bradley
+    - Kevin G. Daly
+    - and many others
+  year: 2026
+  preprint_url: https://www.biorxiv.org/content/10.64898/2026.09.01.748539v1
 
 iberia_2026:
   title: "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats"

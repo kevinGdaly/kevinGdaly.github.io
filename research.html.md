@@ -14,7 +14,11 @@ keep-md: true
 ### 2026{#published-2026}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Annelise Binois-Roman, Louis L’Hôte, Roisin Ferguson, and Kevin G. Daly. (2026) "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage." <em>Royal Society Open Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Luisa Sacristan, Roisin Ferguson, Sébastien Calvignac-Spencer, Kevin G. Daly, and and many others. (2026) "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes." <em>Science Advances</em><br><a class="btn btn-outline-dark btn-sm", href="10.1126/sciadv.aeh3571" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a><br></li>
+<li class='list-group-item'>Annelise Binois-Roman, Louis L’Hôte, Roisin Ferguson, and Kevin G. Daly. (2026) "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage." <em>Royal Society Open Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
@@ -89,7 +93,7 @@ keep-md: true
 ### 2026{#not-published-2026}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Luisa Sacristan, Roisin Ferguson, Sébastien Calvignac-Spencer, Kevin G. Daly, and and many others. (2026) "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes." <em>Science Advances</em><br></li>
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Catherine Butt, Áine Halpin, Daniel Bradley, Kevin G. Daly, and and many others. (2026) "PIGSTI: a modular, reproducible pipeline for detecting species identity, pathogens, and microbes from animal palaeogenomic data."<br></li>
 <li class='list-group-item'>Áine Halpin, Jolijn A. M. Erven, Roger Alcàntara Fors, Conor Rossi, Andrew J. Hare, Valeria Mattiangeli, Maria Saña-Seguí, Daniel G. Bradley, Kevin G. Daly, and and many other. (2026) "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
         Preprint
