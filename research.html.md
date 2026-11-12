@@ -22,10 +22,7 @@ keep-md: true
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
-<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2026) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)." <em>PLoS One</em><br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
-        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
-        Preprint
-    </a> <a class="btn btn-outline-dark btn-sm", href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358468" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2026) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)." <em>PLoS One</em><br><a class="btn btn-outline-dark btn-sm", href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358468" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
