@@ -22,6 +22,13 @@ keep-md: true
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
+<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2026) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)." <em>PLoS One</em><br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
+        Preprint
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358468" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a><br></li>
 <li class='list-group-item'>Judith Findlater, Jolijn A. M. Erven, Alex Siekmann, Valeria Mattiangeli, The VarGoats Consortium, Eileen Murphy, and Kevin G. Daly. (2026) "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland." <em>Journal of Archaeological Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://authors.elsevier.com/sd/article/S0305-4403(26)00046-4" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
@@ -95,15 +102,6 @@ keep-md: true
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Catherine Butt, Áine Halpin, Daniel Bradley, Kevin G. Daly, and and many others. (2026) "PIGSTI: a modular, reproducible pipeline for detecting species identity, pathogens, and microbes from animal palaeogenomic data."<br></li>
 <li class='list-group-item'>Áine Halpin, Jolijn A. M. Erven, Roger Alcàntara Fors, Conor Rossi, Andrew J. Hare, Valeria Mattiangeli, Maria Saña-Seguí, Daniel G. Bradley, Kevin G. Daly, and and many other. (2026) "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
-        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
-        Preprint
-    </a></li></ul>
-```
-
-### 2025{#not-published-2025}
-
-```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2025) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
         Preprint
     </a></li></ul>
