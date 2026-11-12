@@ -14,19 +14,19 @@ keep-md: true
 ### 2026{#published-2026}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Luisa Sacristan, Roisin Ferguson, Sébastien Calvignac-Spencer, Kevin G. Daly, and and many others. (2026) "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes." <em>Science Advances</em><br><a class="btn btn-outline-dark btn-sm", href="10.1126/sciadv.aeh3571" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Luisa Sacristan, Roisin Ferguson, Sébastien Calvignac-Spencer, <strong>Kevin G. Daly</strong>, and and many others. (2026) "3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes." <em>Science Advances</em><br><a class="btn btn-outline-dark btn-sm", href="10.1126/sciadv.aeh3571" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
-<li class='list-group-item'>Annelise Binois-Roman, Louis L’Hôte, Roisin Ferguson, and Kevin G. Daly. (2026) "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage." <em>Royal Society Open Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'>Annelise Binois-Roman, Louis L’Hôte, Roisin Ferguson, and <strong>Kevin G. Daly</strong>. (2026) "Evidence of sheeppox in 17th-19th century France: a multi-disciplinary investigation of a sheep mass mortality assemblage." <em>Royal Society Open Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://royalsocietypublishing.org/rsos/article/13/6/252320/482069/Evidence-of-sheeppox-in-seventeenth-to-nineteenth" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
-<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, Kevin G. Daly, and Francisco Martínez-Sevilla. (2026) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)." <em>PLoS One</em><br><a class="btn btn-outline-dark btn-sm", href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358468" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'>Jolijn A. M. Erven, Zoé Robinet Guyet, Louis L'Hôte, Valeria Mattiangeli, Eva Fernández-Domínguez, Geordie Laidlaw, Rafael M. Martínez Sánchez, Blas Ramos Rodríguez, Maria Herrero-Otal, Pedro Henríquez Valido, José Antonio Lozano Rodríguez, The VarGoats consortium, Daniel G. Bradley, <strong>Kevin G. Daly</strong>, and Francisco Martínez-Sevilla. (2026) "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain)." <em>PLoS One</em><br><a class="btn btn-outline-dark btn-sm", href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358468" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li>
-<li class='list-group-item'>Judith Findlater, Jolijn A. M. Erven, Alex Siekmann, Valeria Mattiangeli, The VarGoats Consortium, Eileen Murphy, and Kevin G. Daly. (2026) "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland." <em>Journal of Archaeological Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://authors.elsevier.com/sd/article/S0305-4403(26)00046-4" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'>Judith Findlater, Jolijn A. M. Erven, Alex Siekmann, Valeria Mattiangeli, The VarGoats Consortium, Eileen Murphy, and <strong>Kevin G. Daly</strong>. (2026) "Old Goats: 3,000 years of genetic connectivity of the domestic goat in Ireland." <em>Journal of Archaeological Science</em><br><a class="btn btn-outline-dark btn-sm", href="https://authors.elsevier.com/sd/article/S0305-4403(26)00046-4" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-archive" role='img' aria-label='Published'></i>
         Published
     </a><br></li></ul>
@@ -97,8 +97,8 @@ keep-md: true
 ### 2026{#not-published-2026}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Catherine Butt, Áine Halpin, Daniel Bradley, Kevin G. Daly, and and many others. (2026) "PIGSTI: a modular, reproducible pipeline for detecting species identity, pathogens, and microbes from animal palaeogenomic data."<br></li>
-<li class='list-group-item'>Áine Halpin, Jolijn A. M. Erven, Roger Alcàntara Fors, Conor Rossi, Andrew J. Hare, Valeria Mattiangeli, Maria Saña-Seguí, Daniel G. Bradley, Kevin G. Daly, and and many other. (2026) "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Louis L’Hôte, Catherine Butt, Áine Halpin, Daniel Bradley, <strong>Kevin G. Daly</strong>, and and many others. (2026) "PIGSTI: a modular, reproducible pipeline for detecting species identity, pathogens, and microbes from animal palaeogenomic data."<br></li>
+<li class='list-group-item'>Áine Halpin, Jolijn A. M. Erven, Roger Alcàntara Fors, Conor Rossi, Andrew J. Hare, Valeria Mattiangeli, Maria Saña-Seguí, Daniel G. Bradley, <strong>Kevin G. Daly</strong>, and and many other. (2026) "Mediterranean dispersal imposed bottlenecks in Neolithic sheep and goats."<br><a class="btn btn-outline-dark btn-sm", href="True" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
         Preprint
     </a></li></ul>
