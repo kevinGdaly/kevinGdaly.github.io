@@ -186,7 +186,6 @@ Within my PhD, I hope to use an interdisciplinary approach to interpret genetic 
 
 ![](jules2.jpg)
 :::
-:::
 
 
 ---
@@ -228,10 +227,13 @@ Jolijn Erven - https://orcid.org/0000-0003-3620-8658
 
 ## Group Photos
 
-::: {layout-ncol=3}
+::: {layout-ncol=2}
 ![Cambridge 2026](group1.jpg){.lightbox group="gallery"}
 
 ![Escape Room 2026](group2.jpg){.lightbox group="gallery"}
 
+![Xinyi's visit to Dublin, 2026](group_xinyi_visit.jpg){.lightbox group="gallery"}
+
+![ICP, Stockholm City Hall, June 2026](group_icp2026.jpg){.lightbox group="gallery"}
 
 :::

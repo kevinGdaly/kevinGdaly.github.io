@@ -57,7 +57,20 @@ Our work sits at the intersection of genomics, archaeology, veterinary science, 
 
 ## ERC Starter Award: HERDPATH
 
+::: columns
+::: {.column width="60%"}
+
 > *Transforming our understanding of how livestock domestication shaped herd and pathogen evolution over the past 10,000 years.*
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+
+![](logo_herdpath.png){fig-alt="HERDPATH logo: a petri dish holding a grassy hillside with grazing sheep and goats" width="100%"}
+
+:::
+:::
 
 HERDPATH uses cutting-edge palaeogenomic approaches to analyse ancient DNA from archaeological livestock remains — focusing on sheep and goat but drawing on data from other species — across Eurasia, to reveal the dynamic interplay between domestication, pathogen evolution, herd inbreeding, and immune gene variation.
 

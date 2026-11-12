@@ -4,7 +4,10 @@ project:
 
 website:
   title: "Ruminant Palaeogenomics"
+  favicon: favicon.png
   navbar:
+    logo: logo_group.png
+    logo-alt: "Ruminant Palaeogenomics logo: a goat and goat skull on a DNA helix"
     left:
       - href: index.qmd
         text: Home

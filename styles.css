@@ -1,1 +1,9 @@
 /* css styles */
+
+/* Group logo in the navbar: white disc so it reads against the blue bar */
+.navbar-brand .navbar-logo {
+  background: #fff;
+  border-radius: 50%;
+  padding: 3px;
+  max-height: 44px;
+}
